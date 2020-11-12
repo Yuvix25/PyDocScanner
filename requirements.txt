@@ -1,0 +1,6 @@
+numpy
+cv2
+pillow
+pytesseract
+imutils
+skimage
